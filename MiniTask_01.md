@@ -58,5 +58,5 @@ Since NodeMCU has very wide functionality in IOT, we could extend our home autom
 
 We can also use NodeMCU as a security system, to notify us if there is a break-in. It could also give us live video feed from our home. 
 
-Thus, we can extend this project to create the perfect home automation system for our home, thanks to the customizability of NodeMCU.
+Thus, we can extend this project to create the perfect home automation system for our home, thanks to the customisability of NodeMCU.
 

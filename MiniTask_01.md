@@ -6,6 +6,9 @@ Reference: https://www.instructables.com/IOT-Based-Smart-Security-Surveillance-R
 
 In this project, we aim to build a smart surveillance robot which transmits live video feed and can be remotely controlled by us using a connected local device. The robot will also have IR sensors for obstacle detection. We will also be implementing user authentication system so as to enable multiple users functionality.
 
+![](https://github.com/shreyarama/Task1/blob/main/Web%20capture_19-6-2022_124731_www.instructables.com.jpeg)
+![](https://github.com/shreyarama/Task1/blob/main/iotgif.gif)
+
 #### Personal Notes:
 We could add in an alarm module which could be triggered by the user from the remote device. This would help alert the people around in case of an emergency. 
 
@@ -14,7 +17,11 @@ We could use custom PCBs to make this robot as compact as possible. Then, we cou
 
 ### Project 2: SmartSlippers - Movement recognition for old people
 
+Reference: https://www.hackster.io/sigmadews/smartslippers-movement-recogintion-for-grandparents-safety-2c63df
+
 In this project, we build a non-invasive wearable device that straps onto slippers and sends notifications to an Android app if a fall is detected. The device also displays the time since last detected activity and the total active time. Additionally, this device also has pedometer functionality.
+
+![](https://github.com/shreyarama/Task1/blob/main/smartslipperpic.jpeg)
 
 #### Personal Notes: 
 
@@ -26,7 +33,12 @@ In the future, we could also look at integrating this device inside a waterproof
 
 ### Project 3: Autonomous Rubik's Cube Solving Robot
 
+Reference: https://www.instructables.com/CUBOTino-Autonomous-Small-3D-Printed-Rubiks-Cube-R/
+
 In this project, we aim to build an autonomous Rubik's Cube solving robot. We use Fusion 360 for 3D modelling the framework for the robot and 3D print it. This project also uses PiCamera and Raspberry Pi Zero 2 for the computer vision part. We also use the Kociemba solver to calculate the most efficient algorithm for solving the cube.
+
+![](https://github.com/shreyarama/Task1/blob/main/cubotinopic.jpg)
+![](https://github.com/shreyarama/Task1/blob/main/cubotinogif.gif)
 
 #### Personal Notes:
 
@@ -56,7 +68,11 @@ We could also program in additional gestures to stand for particular functions; 
 
 ### Project 5: DIY Home Automation System
 
+Reference: https://www.instructables.com/How-to-Build-a-Simple-DIY-Home-Automation-System/
+
 In this project, we use NodeMCU to build a home automation system for turning on and off the  lights. We use the Blynk app control the lights.
+
+![](https://github.com/shreyarama/Task1/blob/main/homeautomationpic.jpeg)
 
 #### Personal Notes:
 

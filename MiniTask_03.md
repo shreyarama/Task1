@@ -4,7 +4,7 @@
 
 #### Step 1: First, always check for hardware issues. Check the wiring and make sure all the pins are connected correctly.
 
-#### Step 2: Check to see if the servos are damaged. Typically, a broken servo will have unmeshed gears and will rotate without any resistance.
+#### Step 2: Check to see if the servos are damaged. Typically, a broken servo will have unmeshed gears and will rotate without any resistance. Overheating is also a sign of damage and the servo will have to be replaced.
 
 #### Step 3: Use diode testing mode on the multimeter to check if LEDs are damaged. Replace if damaged.
 

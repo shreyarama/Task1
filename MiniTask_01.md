@@ -4,6 +4,8 @@
 
 In this project, we aim to build a smart surveillance robot which transmits live video feed and can be remotely controlled by us using a connected local device. The robot will also have IR sensors for obstacle detection. We will also be implementing user authentication system so as to enable multiple users functionality.
 
+![](https://github.com/shreyarama/Task1/blob/main/ezgif.com-gif-maker.gif)
+
 #### Personal Notes:
 We could add in an alarm module which could be triggered by the user from the remote device. This would help alert the people around in case of an emergency. 
 

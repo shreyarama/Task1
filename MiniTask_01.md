@@ -2,9 +2,9 @@
 
 ### Project 1: IOT Based Smart Security Surveillance Robot
 
-In this project, we aim to build a smart surveillance robot which transmits live video feed and can be remotely controlled by us using a connected local device. The robot will also have IR sensors for obstacle detection. We will also be implementing user authentication system so as to enable multiple users functionality.
+Reference: https://www.instructables.com/IOT-Based-Smart-Security-Surveillance-Robot/
 
-![](https://github.com/shreyarama/Task1/blob/main/ezgif.com-gif-maker.gif)
+In this project, we aim to build a smart surveillance robot which transmits live video feed and can be remotely controlled by us using a connected local device. The robot will also have IR sensors for obstacle detection. We will also be implementing user authentication system so as to enable multiple users functionality.
 
 #### Personal Notes:
 We could add in an alarm module which could be triggered by the user from the remote device. This would help alert the people around in case of an emergency. 
@@ -35,6 +35,8 @@ This project could be expanded to solve any cube by installing sensors in the "a
 
 ### Project 4: Gesture Controlled Robot
 
+Reference: https://www.hackster.io/jithinsanal1610/simple-gesture-controlled-robot-using-arduino-843cf6
+
 In this project, we build a gesture controlled robot using Arduino. We use the HC12 wireless module to transmit data from the sensor to the robot. We also use a PAJ7620 sensor to implement the gesture recognition functionality.
 
 This project has two parts: the Transmitter and the Receiver.
@@ -42,6 +44,8 @@ This project has two parts: the Transmitter and the Receiver.
 The Transmitter consists of the PAJ7620 sensor to sense gestures, an Arduino to process the signal and a HC12 wireless module to transmit the signal to the Receiver.
 
 The Receiver consists of a HC12 wireless module that receives the signal sent out by the Transmitter and an Arduino to process the signal.
+
+![](https://github.com/shreyarama/Task1/blob/main/ezgif.com-gif-maker.gif)
 
 #### Personal Notes:
 
